@@ -5,7 +5,7 @@
 
 This code is based on the paper 
 
-[1] Andreas Langer and Sara Behnamian. 'DeepTV: A neural network approach for total variation minimization'. In preparation, 2024.
+[1] Andreas Langer and Sara Behnamian. 'DeepTV: A neural network approach for total variation minimization'. arXiv:2409.05569, 2024.
                                              
 Read and use at your own risk.
 
